@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mchoi <auspic7@gmail.com>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/25 12:51:12 by mchoi             #+#    #+#             */
-/*   Updated: 2021/11/25 12:51:12 by mchoi            ###   ########.fr       */
+/*   Created: 2021/11/25 12:51:17 by mchoi             #+#    #+#             */
+/*   Updated: 2021/11/25 12:51:17 by mchoi            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(const char *str, int n)
 {
